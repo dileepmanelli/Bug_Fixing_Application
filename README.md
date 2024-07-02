@@ -14,7 +14,9 @@ BugFix is an application aimed at streamlining the process of fixing errors in e
 
 # Features
 Error Detection: Automatically detects errors in the code.
+
 Bug Tracking: Keeps track of identified bugs and their status.
+
 Error Analysis: Provides detailed reports on the nature of the errors.
 Patch Management: Allows developers to apply and test patches for fixing bugs.
 User-friendly Interface: Easy-to-use interface for managing the bug-fixing process.
@@ -48,6 +50,7 @@ Analyze Errors:
 Get detailed reports on each error through the "Error Analysis" feature.
 Apply Patches:
 Create and apply patches to fix the bugs, and test them within the application.
+
 Configuration
 You can customize BugFix by modifying the config.json file located in the project directory. This file allows you to configure various settings, such as:
 
